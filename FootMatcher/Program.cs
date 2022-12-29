@@ -6,20 +6,27 @@ namespace FootMatcher
     {
         static void Main(string[] args)
         {
-            var serviceCollection = new ServiceCollection()
-                .AddScoped<IConsoleLogger, ConsoleLogger>()
-                .AddScoped<JustExecuter>();
-            
+            var serviceCollection = ConfigureServiceCollection();
             var serviceProvider = serviceCollection.BuildServiceProvider();
 
             var executer = serviceProvider.GetService<JustExecuter>();
-
             if (executer == null)
             {
                 throw new NullReferenceException("executer not found");
             }
 
             executer.Execute();
+        }
+
+        static IServiceCollection ConfigureServiceCollection()
+        {
+            var serviceCollection = new ServiceCollection();
+
+            serviceCollection
+                .AddScoped<IConsoleLogger, ConsoleLogger>()
+                .AddScoped<JustExecuter>();
+
+            return serviceCollection;
         }
     }
 }
