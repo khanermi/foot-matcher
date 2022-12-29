@@ -9,5 +9,10 @@ namespace FootMatcher.FileSystemRepositories.Repositories
 {
     public class TeamRepository : FileSystemRepository<Team>
     {
+        private const string _filePath = @"fileDb\teams.json";
+
+        public TeamRepository() : base(_filePath)
+        {
+        }
     }
 }

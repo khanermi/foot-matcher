@@ -2,9 +2,9 @@
 {
     public class Team : ModelBase
     {
-        public string CountryName { get; set; }
-        public string Name { get; set; }
+        public string CountryName { get; set; } //ak1
+        public string Name { get; set; } //ak1
         public int HalfStarsCount { get; set; }
-        public bool IsMale { get; set; }
+        public bool IsMale { get; set; } //ak1
     }
 }

@@ -9,11 +9,11 @@ using System.Threading.Tasks;
 namespace FootMatcher.Repositories.Interfaces.Interfaces
 {
     public interface IRepository<T>
-        where T : class
+        where T : ModelBase
     {
         T Get(Guid id);
-        List<T> Get();
-        List<T> Get(Expression<Func<Team, bool>> predicate);
+        IEnumerable<T> Get();
+        IEnumerable<T> Get(Func<T, bool> predicate);
         
         void Create(T item);
 
@@ -21,5 +21,6 @@ namespace FootMatcher.Repositories.Interfaces.Interfaces
 
         void Delete(Guid id);
         void Delete(T item);
+        void Delete(Func<T, bool> predicate);
     }
 }
