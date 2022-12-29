@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootMatcher", "FootMatcher\FootMatcher.csproj", "{B36BDE91-843D-4097-B10B-C58227285F68}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FootMatcher.ConsoleApp", "FootMatcher\FootMatcher.ConsoleApp.csproj", "{B36BDE91-843D-4097-B10B-C58227285F68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Database.Interfaces", "Database.Interfaces\Database.Interfaces.csproj", "{DBAE40A9-901B-4FB0-9D15-B3C90EE4662B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{B36BDE91-843D-4097-B10B-C58227285F68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B36BDE91-843D-4097-B10B-C58227285F68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B36BDE91-843D-4097-B10B-C58227285F68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBAE40A9-901B-4FB0-9D15-B3C90EE4662B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBAE40A9-901B-4FB0-9D15-B3C90EE4662B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBAE40A9-901B-4FB0-9D15-B3C90EE4662B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBAE40A9-901B-4FB0-9D15-B3C90EE4662B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
