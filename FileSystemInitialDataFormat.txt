@@ -1,0 +1,31 @@
+country
+league
+teamName
+teamStars
+m / f
+
+for club
+spain/bbva/teamName/teamStars/m
+
+for national
+spain/f
+
+
+spain/bbva/teamName/teamStars/m
+spain/f
+spain/bbva/teamName/teamStars/m
+spain/f
+spain/bbva/teamName/teamStars/m
+spain/f
+spain/bbva/teamName/teamStars/m
+spain/f
+spain/bbva/teamName/teamStars/m
+spain/f
+spain/bbva/teamName/teamStars/m
+spain/f
+spain/bbva/teamName/teamStars/m
+spain/f
+spain/bbva/teamName/teamStars/m
+spain/f
+spain/bbva/teamName/teamStars/m
+spain/f
