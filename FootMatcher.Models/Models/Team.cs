@@ -1,8 +1,7 @@
 ﻿namespace FootMatcher.Models.Models
 {
-    public class Team
+    public class Team : ModelBase
     {
-        public string Id { get; set; }
         public string CountryName { get; set; }
         public string Name { get; set; }
         public int HalfStarsCount { get; set; }
