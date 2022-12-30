@@ -8,24 +8,4 @@ for club
 spain/bbva/teamName/teamStars/m
 
 for national
-spain/f
-
-
-spain/bbva/teamName/teamStars/m
-spain/f
-spain/bbva/teamName/teamStars/m
-spain/f
-spain/bbva/teamName/teamStars/m
-spain/f
-spain/bbva/teamName/teamStars/m
-spain/f
-spain/bbva/teamName/teamStars/m
-spain/f
-spain/bbva/teamName/teamStars/m
-spain/f
-spain/bbva/teamName/teamStars/m
-spain/f
-spain/bbva/teamName/teamStars/m
-spain/f
-spain/bbva/teamName/teamStars/m
-spain/f
+spain/teamStars/f

@@ -37,6 +37,7 @@ Australia/A-league/Newcastle Jets/3/m
 Australia/A-league/Perth Glory/3/m
 Australia/A-league/Central Coast Mariners/2/m
 Australia/A-league/Brisbane Roar/2/m
+
 Austria/O-Bundesliga/RB Salzburg/7/m
 Austria/O-Bundesliga/LASK/6/m
 Austria/O-Bundesliga/SK Sturm Graz/6/m
@@ -68,6 +69,7 @@ Belgium/Belgium Pro League/Kortrijk/5/m
 Belgium/Belgium Pro League/Sint-Truiden/5/m
 Belgium/Belgium Pro League/Beerschot/5/m
 Belgium/Belgium Pro League/Seraing/4/m
+
 Brazil/Liga Do Brasil/Atlético Mineiro/8/m
 Brazil/Liga Do Brasil/Internacional/7/m
 Brazil/Liga Do Brasil/Athletico Paranaense/7/m
@@ -98,6 +100,7 @@ China/CSL/Qingdao FC/1/m
 China/CSL/Chongqing Liangjiang Athletic/1/m
 China/CSL/Guangzhou FC/1/m
 China/CSL/Hebei FC/1/m
+
 Denmark/3F Superliga/FC København/7/m
 Denmark/3F Superliga/FC Midtjylland/7/m
 Denmark/3F Superliga/Aalborg BK/5/m
@@ -110,6 +113,7 @@ Denmark/3F Superliga/Vejle BK/4/m
 Denmark/3F Superliga/FC Nordsjælland/4/m
 Denmark/3F Superliga/Viborg FF/3/m
 Denmark/3F Superliga/SønderjyskE/3/m
+
 England/Premier League/Liverpool/10/m
 England/Premier League/Manchester City/10/m
 England/Premier League/Chelsea/10/m
@@ -130,6 +134,7 @@ England/Premier League/Brighton & Hove Albion/8/m
 England/Premier League/Brentford/7/m
 England/Premier League/Watford/7/m
 England/Premier League/Norwich City/7/m
+
 England/EFL Championship/Fulham/7/m
 England/EFL Championship/Bournemouth/7/m
 England/EFL Championship/Sheffield United/7/m
@@ -154,6 +159,7 @@ England/EFL Championship/Barnsley/5/m
 England/EFL Championship/Derby County/5/m
 England/EFL Championship/Peterborough United/5/m
 England/EFL Championship/Blackpool/5/m
+
 England/EFL League One/Rotherham United/5/m
 England/EFL League One/Wigan Athletic/5/m
 England/EFL League One/Sheffield Wednesday/5/m
@@ -178,6 +184,7 @@ England/EFL League One/AFC Wimbledon/3/m
 England/EFL League One/Gillingham/3/m
 England/EFL League One/Doncaster Rovers/3/m
 England/EFL League One/Crewe Alexandra/2/m
+
 England/EFL League Two/Mansfield Town/3/m
 England/EFL League Two/Salford City/3/m
 England/EFL League Two/Bristol Rovers/3/m
@@ -202,3 +209,123 @@ England/EFL League Two/Hartlepool United/2/m
 England/EFL League Two/Oldham Athletic/2/m
 England/EFL League Two/Barrow/2/m
 England/EFL League Two/Scunthorpe United/2/m
+
+France/League 1/Paris Saint-Germain/10/m
+France/League 1/Olympique de Marseille/8/m
+France/League 1/Olympique Lyonnais/8/m
+France/League 1/AS Monaco/8/m
+France/League 1/Stade Rennais/8/m
+France/League 1/OGC Nice/8/m
+France/League 1/LOSC Lille/8/m
+France/League 1/RC Strasbourg/8/m
+France/League 1/RC Lens/8/m
+France/League 1/Montpellier HSC/8/m
+France/League 1/FC Nantes/7/m
+France/League 1/AS Saint-Étienne/7/m
+France/League 1/Stade Brestois/7/m
+France/League 1/Girondins de Bordeaux/7/m
+France/League 1/Stade de Reims/7/m
+France/League 1/Angers SCO/7/m
+France/League 1/FC Metz/7/m
+France/League 1/ESTAC Troyes/7/m
+France/League 1/Clermont Foot/7/m
+France/League 1/FC Lorient/7/m
+
+France/League 2/AJ Auxerre/6/m
+France/League 2/Nîmes Olympique/6/m
+France/League 2/SM Caen/5/m
+France/League 2/Toulouse FC/5/m
+France/League 2/Dijon FCO/5/m
+France/League 2/Paris FC/5/m
+France/League 2/Amiens SC/5/m
+France/League 2/Valenciennes FC/5/m
+France/League 2/AC Ajaccio/5/m
+France/League 2/Le Havre AC/5/m
+France/League 2/Grenoble Foot 38/4/m
+France/League 2/En Avant Guingamp/4/m
+France/League 2/FC Sochaux/4/m
+France/League 2/Chamois Niortais FC/4/m
+France/League 2/AS Nancy/4/m
+France/League 2/Pau FC/4/m
+France/League 2/USL Dunkerque/4/m
+France/League 2/SC Bastia/4/m
+France/League 2/Rodez Aveyron Football/4/m
+France/League 2/Quevilly Rouen Métropole/3/m
+
+Germany/Bundesliga 1/Bayern München/10/m
+Germany/Bundesliga 1/Borussia Dortmund/9/m
+Germany/Bundesliga 1/RB Leipzig/9/m
+Germany/Bundesliga 1/Bayer 04 Leverkusen/9/m
+Germany/Bundesliga 1/Borussia M'gladbach/8/m
+Germany/Bundesliga 1/TSG 1899 Hoffenheim/8/m
+Germany/Bundesliga 1/VfL Wolfsburg/8/m
+Germany/Bundesliga 1/Eintracht Frankfurt/8/m
+Germany/Bundesliga 1/1. FC Köln/8/m
+Germany/Bundesliga 1/SC Freiburg/8/m
+Germany/Bundesliga 1/Hertha BSC/7/m
+Germany/Bundesliga 1/1. FSV Mainz 05/7/m
+Germany/Bundesliga 1/VfB Stuttgart/7/m
+Germany/Bundesliga 1/FC Augsburg/7/m
+Germany/Bundesliga 1/1. FC Union Berlin/7/m
+Germany/Bundesliga 1/VfL Bochum/7/m
+Germany/Bundesliga 1/Arminia Bielefeld/7/m
+Germany/Bundesliga 1/SpVgg Greuther Fürth/7/m
+
+Germany/Bundesliga 2/Werder Bremen/7/m
+Germany/Bundesliga 2/FC Schalke 04/7/m
+Germany/Bundesliga 2/Hamburger SV/7/m
+Germany/Bundesliga 2/Fortuna Düsseldorf/6/m
+Germany/Bundesliga 2/1. FC Nürnberg/6/m
+Germany/Bundesliga 2/FC St. Pauli/6/m
+Germany/Bundesliga 2/SV Darmstadt 98/6/m
+Germany/Bundesliga 2/SC Paderborn 07/6/m
+Germany/Bundesliga 2/Karlsruher SC/6/m
+Germany/Bundesliga 2/1. FC Heidenheim/6/m
+Germany/Bundesliga 2/Hannover 96/6/m
+Germany/Bundesliga 2/Holstein Kiel/5/m
+Germany/Bundesliga 2/SV Sandhausen/5/m
+Germany/Bundesliga 2/Hansa Rostock/5/m
+Germany/Bundesliga 2/Jahn Regensburg/5/m
+Germany/Bundesliga 2/Dynamo Dresden/5/m
+Germany/Bundesliga 2/FC Ingolstadt 04/5/m
+Germany/Bundesliga 2/Erzgebirge Aue/5/m
+
+Germany/3. Liga/1. FC Kaiserslautern/4/m
+Germany/3. Liga/Eintracht Braunschweig/4/m
+Germany/3. Liga/TSV 1860 München/4/m
+Germany/3. Liga/1. FC Magdeburg/4/m
+Germany/3. Liga/SV Waldhof Mannheim/4/m
+Germany/3. Liga/SV Wehen Wiesbaden/4/m
+Germany/3. Liga/VfL Osnabrück/4/m
+Germany/3. Liga/Hallescher FC/3/m
+Germany/3. Liga/1. FC Saarbrücken/3/m
+Germany/3. Liga/Würzburger Kickers/3/m
+Germany/3. Liga/FSV Zwickau/3/m
+Germany/3. Liga/Viktoria Köln/3/m
+Germany/3. Liga/SV Meppen/3/m
+Germany/3. Liga/MSV Duisburg/3/m
+Germany/3. Liga/SC Verl/3/m
+Germany/3. Liga/Borussia Dortmund II/3/m
+Germany/3. Liga/FC Viktoria 1889 Berlin/3/m
+Germany/3. Liga/SC Freiburg II/2/m
+Germany/3. Liga/Türkgücü München/2/m
+Germany/3. Liga/TSV Havelse/2/m
+
+Netherlands/Eredivisie/Ajax/9/m
+Netherlands/Eredivisie/PSV/8/m
+Netherlands/Eredivisie/Feyenoord/8/m
+Netherlands/Eredivisie/AZ/7/m
+Netherlands/Eredivisie/FC Utrecht/6/m
+Netherlands/Eredivisie/Vitesse/6/m
+Netherlands/Eredivisie/FC Twente/6/m
+Netherlands/Eredivisie/Fortuna Sittard/6/m
+Netherlands/Eredivisie/NEC Nijmegen/5/m
+Netherlands/Eredivisie/Go Ahead Eagles/5/m
+Netherlands/Eredivisie/Sparta Rotterdam/5/m
+Netherlands/Eredivisie/Heracles Almelo/5/m
+Netherlands/Eredivisie/FC Groningen/5/m
+Netherlands/Eredivisie/Willem II/5/m
+Netherlands/Eredivisie/sc Heerenveen/5/m
+Netherlands/Eredivisie/RKC Waalwijk/4/m
+Netherlands/Eredivisie/SC Cambuur/4/m
+Netherlands/Eredivisie/PEC Zwolle/4/m

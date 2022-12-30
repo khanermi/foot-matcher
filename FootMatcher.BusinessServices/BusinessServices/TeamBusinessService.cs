@@ -33,6 +33,8 @@ namespace FootMatcher.BusinessServices.BusinessServices
                 throw new Exception("Trying to add duplicate team");
             }
 
+            team.Id = Guid.NewGuid();
+
             _teamRepository.Add(team);
         }
 
@@ -43,8 +45,17 @@ namespace FootMatcher.BusinessServices.BusinessServices
                 throw new ArgumentNullException(nameof(teams));
             }
 
+            var teamsArray = teams.ToArray();
+            for (int i = 0; i < teams.Count(); i++)
+            {
+                if (teamsArray[i].Id == Guid.Empty)
+                {
+                    teamsArray[i].Id = Guid.NewGuid();
+                }
+            }
+
             var storedItems = _teamRepository.Get();
-            var itemsToAdd = teams.Where(x => storedItems.All(y => !x.Equals(y)));
+            var itemsToAdd = teamsArray.Where(x => storedItems.All(y => !x.Equals(y)));
             
             _teamRepository.Add(itemsToAdd);
         }
