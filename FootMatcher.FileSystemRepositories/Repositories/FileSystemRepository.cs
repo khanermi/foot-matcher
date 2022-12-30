@@ -1,5 +1,7 @@
-﻿using FootMatcher.Models.Models;
+﻿using FootMatcher.FileSystemRepositories.Options;
+using FootMatcher.Models.Models;
 using FootMatcher.Repositories.Interfaces.Interfaces;
+using Microsoft.Extensions.Options;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,14 +15,20 @@ namespace FootMatcher.FileSystemRepositories.Repositories
     public class FileSystemRepository<T> : IRepository<T>
         where T : ModelBase
     {
-        private readonly string _filePath; 
+        protected readonly FileSystemRepositoryOptions _options;
+        protected readonly string _filename;
+        protected readonly string _filepath;
 
-        public FileSystemRepository(string filePath)
+        public FileSystemRepository(IOptions<FileSystemRepositoryOptions> options, string filename)
         {
-            _filePath = filePath;
+            _options = options.Value;
+            _filename = filename;
+            _filepath = Path.Combine(_options.FileSystemDbDirectoryPath, filename);
+
+            CreateDirectoryIfNotExists();
         }
 
-        public void Create(T item)
+        public void Add(T item)
         {
             if (item == null)
             {
@@ -31,6 +39,19 @@ namespace FootMatcher.FileSystemRepositories.Repositories
             items.Add(item);
 
             SaveItems(items);
+        }
+
+        public void Add(IEnumerable<T> items)
+        {
+            if (items == null)
+            {
+                throw new ArgumentNullException(nameof(items));
+            }
+
+            var storedItems = Get().ToList();
+            storedItems.AddRange(items);
+
+            SaveItems(storedItems);
         }
 
         public void Delete(Guid id)
@@ -64,27 +85,26 @@ namespace FootMatcher.FileSystemRepositories.Repositories
             var item = Get(x => x.Id == id)
                 .FirstOrDefault();
 
-            if (item == null)
-            {
-                throw new Exception($"Item {item.Id} not found");
-            }
-
             return item;
         }
 
         public IEnumerable<T> Get()
         {
-            var fileInfo = new FileInfo(_filePath);
-            if (!fileInfo.Exists)
+            var fileInfo = new FileInfo(_filepath);
+
+            using (var fs = new FileStream(fileInfo.FullName, FileMode.OpenOrCreate))
             {
-                throw new Exception($"File {fileInfo.FullName} doesn't exist");
+                var items = new List<T>();
+                try
+                {
+                    items.AddRange(JsonSerializer.Deserialize<List<T>>(fs));
+                }
+                catch (JsonException jse)
+                {
+                }                
+
+                return items;
             }
-
-            using var fs = new FileStream(fileInfo.FullName, FileMode.OpenOrCreate);
-            
-            var items = JsonSerializer.Deserialize<List<T>>(fs);
-
-            return items;
         }
 
         public IEnumerable<T> Get(Func<T, bool> predicate)
@@ -108,15 +128,27 @@ namespace FootMatcher.FileSystemRepositories.Repositories
 
         private void SaveItems(IEnumerable<T> items)
         {
-            var fileInfo = new FileInfo(_filePath);
+            var fileInfo = new FileInfo(_filepath);
             if (!fileInfo.Exists)
             {
                 throw new Exception($"File {fileInfo.FullName} doesn't exist");
             }
 
-            using var fs = new FileStream(fileInfo.FullName, FileMode.OpenOrCreate);
+            using (var fs = new FileStream(fileInfo.FullName, FileMode.OpenOrCreate))
+            {
+                JsonSerializer.Serialize(fs, items);
+            }
+        }
 
-            JsonSerializer.Serialize(fs, items);
+        private void CreateDirectoryIfNotExists()
+        {
+            var currentDirectoryInfo = new DirectoryInfo(Directory.GetCurrentDirectory());
+            if (!currentDirectoryInfo.Exists)
+            {
+                throw new Exception("current directory doesnt exist");
+            }
+
+            var directory = Directory.CreateDirectory(_options.FileSystemDbDirectoryPath);
         }
     }
 }

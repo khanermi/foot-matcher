@@ -6,19 +6,18 @@ using System.Threading.Tasks;
 
 namespace FootMatcher
 {
-    public class JustExecuter
+    public class Executer
     {
         private IConsoleLogger _consoleLogger;
 
-        public JustExecuter(IConsoleLogger consoleLogger)
+        public Executer(IConsoleLogger consoleLogger)
         {
             _consoleLogger = consoleLogger;
         }
 
         public void Execute()
         {
-            _consoleLogger.Log("im new message 1");
-            _consoleLogger.Log("im new message 2");
+            
         }
     }
 }

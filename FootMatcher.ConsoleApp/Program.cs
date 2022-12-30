@@ -1,4 +1,5 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
+using System;
 
 namespace FootMatcher
 {
@@ -9,7 +10,7 @@ namespace FootMatcher
             var serviceCollection = ConfigureServiceCollection();
             var serviceProvider = serviceCollection.BuildServiceProvider();
 
-            var executer = serviceProvider.GetService<JustExecuter>();
+            var executer = serviceProvider.GetService<Executer>();
             if (executer == null)
             {
                 throw new NullReferenceException("executer not found");
@@ -24,7 +25,7 @@ namespace FootMatcher
 
             serviceCollection
                 .AddScoped<IConsoleLogger, ConsoleLogger>()
-                .AddScoped<JustExecuter>();
+                .AddScoped<Executer>();
 
             return serviceCollection;
         }

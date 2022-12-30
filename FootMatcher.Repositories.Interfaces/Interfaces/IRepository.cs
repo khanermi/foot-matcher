@@ -15,7 +15,8 @@ namespace FootMatcher.Repositories.Interfaces.Interfaces
         IEnumerable<T> Get();
         IEnumerable<T> Get(Func<T, bool> predicate);
         
-        void Create(T item);
+        void Add(T item);
+        void Add(IEnumerable<T> items);
 
         void Update(T item);
 

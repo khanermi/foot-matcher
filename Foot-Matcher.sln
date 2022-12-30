@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootMatcher.FileSystemRepos
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootMatcher.Models", "FootMatcher.Models\FootMatcher.Models.csproj", "{5B402C75-4F2D-4C06-AE78-8F79E7CFE9C2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootMatcher.FileSystemDbPopulator", "FootMatcher.FileSystemDbPopulator\FootMatcher.FileSystemDbPopulator.csproj", "{E24A36A0-8575-4EC9-9EC5-5ADE4209386B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{5B402C75-4F2D-4C06-AE78-8F79E7CFE9C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B402C75-4F2D-4C06-AE78-8F79E7CFE9C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B402C75-4F2D-4C06-AE78-8F79E7CFE9C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E24A36A0-8575-4EC9-9EC5-5ADE4209386B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E24A36A0-8575-4EC9-9EC5-5ADE4209386B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E24A36A0-8575-4EC9-9EC5-5ADE4209386B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E24A36A0-8575-4EC9-9EC5-5ADE4209386B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

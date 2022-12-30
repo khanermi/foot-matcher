@@ -6,4 +6,8 @@
     <Nullable>disable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\FootMatcher.Repositories.Interfaces\FootMatcher.Repositories.Interfaces.csproj" />
+  </ItemGroup>
+
 </Project>

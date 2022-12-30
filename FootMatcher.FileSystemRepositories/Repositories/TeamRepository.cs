@@ -1,17 +1,19 @@
-﻿using FootMatcher.Models.Models;
+﻿using FootMatcher.FileSystemRepositories.Options;
+using FootMatcher.Models.Models;
+using FootMatcher.Repositories.Interfaces.Interfaces;
+using Microsoft.Extensions.Options;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace FootMatcher.FileSystemRepositories.Repositories
 {
-    public class TeamRepository : FileSystemRepository<Team>
+    public class TeamRepository : FileSystemRepository<Team>, ITeamRepository
     {
-        private const string _filePath = @"fileDb\teams.json";
-
-        public TeamRepository() : base(_filePath)
+        public TeamRepository(IOptions<FileSystemRepositoryOptions> options) : base(options, options.Value.TeamRepositoryFilename)
         {
         }
     }
