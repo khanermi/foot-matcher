@@ -21,6 +21,7 @@
     <ProjectReference Include="..\FootMatcher.BusinessServices.Interfaces\FootMatcher.BusinessServices.Interfaces.csproj" />
     <ProjectReference Include="..\FootMatcher.BusinessServices\FootMatcher.BusinessServices.csproj" />
     <ProjectReference Include="..\FootMatcher.FileSystemRepositories\FootMatcher.FileSystemRepositories.csproj" />
+    <ProjectReference Include="..\FootMatcher.InitialDataFileParser\FootMatcher.InitialDataFileParser.csproj" />
   </ItemGroup>
 
 </Project>

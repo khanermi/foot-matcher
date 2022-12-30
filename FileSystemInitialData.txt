@@ -1,0 +1,204 @@
+Argentina/LPF/River Plate/8/m
+Argentina/LPF/Boca Juniors/8/m
+Argentina/LPF/Colón/7/m
+Argentina/LPF/Racing Club de Avellaneda/7/m
+Argentina/LPF/Independiente/7/m
+Argentina/LPF/Estudiantes de La Plata/7/m
+Argentina/LPF/Vélez Sarsfield/7/m
+Argentina/LPF/Rosario Central/7/m
+Argentina/LPF/Lanús/7/m
+Argentina/LPF/Defensa y Justicia/7/m
+Argentina/LPF/Argentinos Juniors/6/m
+Argentina/LPF/Talleres de Córdoba/6/m
+Argentina/LPF/San Lorenzo de Almagro/6/m
+Argentina/LPF/Gimnasia y Esgrima La Plata/6/m
+Argentina/LPF/Atlético Tucumán/6/m
+Argentina/LPF/Unión de Santa Fe/6/m
+Argentina/LPF/Newell's Old Boys/6/m
+Argentina/LPF/Banfield/6/m
+Argentina/LPF/Aldosivi/5/m
+Argentina/LPF/Sarmiento/5/m
+Argentina/LPF/Platense/5/m
+Argentina/LPF/Huracán/5/m
+Argentina/LPF/Central Córdoba/5/m
+Argentina/LPF/Godoy Cruz/5/m
+Argentina/LPF/Patronato/5/m
+Argentina/LPF/Arsenal de Sarandí/5/m
+
+Australia/A-league/Melbourne City/4/m
+Australia/A-league/Sydney FC/4/m
+Australia/A-league/Western United FC/4/m
+Australia/A-league/Melbourne Victory/4/m
+Australia/A-league/Macarthur FC/4/m
+Australia/A-league/Adelaide United/3/m
+Australia/A-league/Wellington Phoenix/3/m
+Australia/A-league/Western Sydney Wanderers/3/m
+Australia/A-league/Newcastle Jets/3/m
+Australia/A-league/Perth Glory/3/m
+Australia/A-league/Central Coast Mariners/2/m
+Australia/A-league/Brisbane Roar/2/m
+Austria/O-Bundesliga/RB Salzburg/7/m
+Austria/O-Bundesliga/LASK/6/m
+Austria/O-Bundesliga/SK Sturm Graz/6/m
+Austria/O-Bundesliga/SK Rapid Wien/5/m
+Austria/O-Bundesliga/Wolfsberger AC/5/m
+Austria/O-Bundesliga/Austria Wien/4/m
+Austria/O-Bundesliga/Austria Klagenfurt/4/m
+Austria/O-Bundesliga/TSV Hartberg/4/m
+Austria/O-Bundesliga/WSG Tirol/4/m
+Austria/O-Bundesliga/SCR Altach/3/m
+Austria/O-Bundesliga/Admira Wacker/3/m
+Austria/O-Bundesliga/SV Ried/3/m
+
+Belgium/Belgium Pro League/Club Brugge/8/m
+Belgium/Belgium Pro League/Genk/7/m
+Belgium/Belgium Pro League/Antwerp/7/m
+Belgium/Belgium Pro League/Anderlecht/7/m
+Belgium/Belgium Pro League/Gent/7/m
+Belgium/Belgium Pro League/Union Saint-Gilloise/7/m
+Belgium/Belgium Pro League/OH Leuven/6/m
+Belgium/Belgium Pro League/Zulte Waregem/6/m
+Belgium/Belgium Pro League/KV Mechelen/6/m
+Belgium/Belgium Pro League/Oostende/6/m
+Belgium/Belgium Pro League/Standard Liège/6/m
+Belgium/Belgium Pro League/Charleroi/6/m
+Belgium/Belgium Pro League/Eupen/5/m
+Belgium/Belgium Pro League/Cercle Brugge/5/m
+Belgium/Belgium Pro League/Kortrijk/5/m
+Belgium/Belgium Pro League/Sint-Truiden/5/m
+Belgium/Belgium Pro League/Beerschot/5/m
+Belgium/Belgium Pro League/Seraing/4/m
+Brazil/Liga Do Brasil/Atlético Mineiro/8/m
+Brazil/Liga Do Brasil/Internacional/7/m
+Brazil/Liga Do Brasil/Athletico Paranaense/7/m
+Brazil/Liga Do Brasil/Santos/7/m
+Brazil/Liga Do Brasil/Grêmio/7/m
+Brazil/Liga Do Brasil/Fluminense/7/m
+Brazil/Liga Do Brasil/Fortaleza/7/m
+Brazil/Liga Do Brasil/Ceará/7/m
+Brazil/Liga Do Brasil/Atlético Goianiense/7/m
+Brazil/Liga Do Brasil/Cuiabá/7/m
+Brazil/Liga Do Brasil/Bahia/7/m
+Brazil/Liga Do Brasil/Juventude/6/m
+Brazil/Liga Do Brasil/Chapecoense/5/m
+
+China/CSL/Shandong Taishan/6/m
+China/CSL/Shanghai Port/5/m
+China/CSL/Beijing Guoan/4/m
+China/CSL/Changchun Yatai/4/m
+China/CSL/Shenzhen FC/4/m
+China/CSL/Henan Songshan Longmen FC/4/m
+China/CSL/Shanghai Shenhua/4/m
+China/CSL/Dalian Professional/2/m
+China/CSL/Wuhan Yangtze/2/m
+China/CSL/Cangzhou Mighty Lions/2/m
+China/CSL/Guangzhou City/2/m
+China/CSL/Tianjin Jinmen Tiger/1/m
+China/CSL/Qingdao FC/1/m
+China/CSL/Chongqing Liangjiang Athletic/1/m
+China/CSL/Guangzhou FC/1/m
+China/CSL/Hebei FC/1/m
+Denmark/3F Superliga/FC København/7/m
+Denmark/3F Superliga/FC Midtjylland/7/m
+Denmark/3F Superliga/Aalborg BK/5/m
+Denmark/3F Superliga/Aarhus GF/5/m
+Denmark/3F Superliga/Brøndby IF/5/m
+Denmark/3F Superliga/Randers FC/4/m
+Denmark/3F Superliga/Silkeborg IF/4/m
+Denmark/3F Superliga/Odense Boldklub/4/m
+Denmark/3F Superliga/Vejle BK/4/m
+Denmark/3F Superliga/FC Nordsjælland/4/m
+Denmark/3F Superliga/Viborg FF/3/m
+Denmark/3F Superliga/SønderjyskE/3/m
+England/Premier League/Liverpool/10/m
+England/Premier League/Manchester City/10/m
+England/Premier League/Chelsea/10/m
+England/Premier League/Manchester United/10/m
+England/Premier League/Tottenham Hotspur/9/m
+England/Premier League/Leicester City/9/m
+England/Premier League/Arsenal/9/m
+England/Premier League/West Ham United/9/m
+England/Premier League/Aston Villa/8/m
+England/Premier League/Wolverhampton Wanderers/8/m
+England/Premier League/Everton/8/m
+England/Premier League/Newcastle United/8/m
+England/Premier League/Leeds United/8/m
+England/Premier League/Crystal Palace/8/m
+England/Premier League/Burnley/8/m
+England/Premier League/Southampton/8/m
+England/Premier League/Brighton & Hove Albion/8/m
+England/Premier League/Brentford/7/m
+England/Premier League/Watford/7/m
+England/Premier League/Norwich City/7/m
+England/EFL Championship/Fulham/7/m
+England/EFL Championship/Bournemouth/7/m
+England/EFL Championship/Sheffield United/7/m
+England/EFL Championship/Blackburn Rovers/7/m
+England/EFL Championship/West Bromwich Albion/7/m
+England/EFL Championship/Nottingham Forest/7/m
+England/EFL Championship/Queens Park Rangers/7/m
+England/EFL Championship/Reading/6/m
+England/EFL Championship/Swansea City/6/m
+England/EFL Championship/Middlesbrough/6/m
+England/EFL Championship/Coventry City/6/m
+England/EFL Championship/Stoke City/6/m
+England/EFL Championship/Millwall/6/m
+England/EFL Championship/Huddersfield Town/6/m
+England/EFL Championship/Preston North End/6/m
+England/EFL Championship/Birmingham City/6/m
+England/EFL Championship/Luton Town/6/m
+England/EFL Championship/Bristol City/6/m
+England/EFL Championship/Cardiff City/6/m
+England/EFL Championship/Hull City/5/m
+England/EFL Championship/Barnsley/5/m
+England/EFL Championship/Derby County/5/m
+England/EFL Championship/Peterborough United/5/m
+England/EFL Championship/Blackpool/5/m
+England/EFL League One/Rotherham United/5/m
+England/EFL League One/Wigan Athletic/5/m
+England/EFL League One/Sheffield Wednesday/5/m
+England/EFL League One/Wycombe Wanderers/4/m
+England/EFL League One/Sunderland/4/m
+England/EFL League One/Ipswich Town/4/m
+England/EFL League One/Portsmouth/4/m
+England/EFL League One/Plymouth Argyle/4/m
+England/EFL League One/Milton Keynes Dons/4/m
+England/EFL League One/Charlton Athletic/4/m
+England/EFL League One/Bolton Wanderers/4/m
+England/EFL League One/Oxford United/4/m
+England/EFL League One/Cambridge United/3/m
+England/EFL League One/Burton Albion/3/m
+England/EFL League One/Shrewsbury Town/3/m
+England/EFL League One/Lincoln City/3/m
+England/EFL League One/Fleetwood Town/3/m
+England/EFL League One/Accrington Stanley/3/m
+England/EFL League One/Morecambe/3/m
+England/EFL League One/Cheltenham Town/3/m
+England/EFL League One/AFC Wimbledon/3/m
+England/EFL League One/Gillingham/3/m
+England/EFL League One/Doncaster Rovers/3/m
+England/EFL League One/Crewe Alexandra/2/m
+England/EFL League Two/Mansfield Town/3/m
+England/EFL League Two/Salford City/3/m
+England/EFL League Two/Bristol Rovers/3/m
+England/EFL League Two/Swindon Town/3/m
+England/EFL League Two/Forest Green Rovers/3/m
+England/EFL League Two/Port Vale/3/m
+England/EFL League Two/Bradford City/3/m
+England/EFL League Two/Newport County/3/m
+England/EFL League Two/Northampton Town/3/m
+England/EFL League Two/Crawley Town/2/m
+England/EFL League Two/Tranmere Rovers/2/m
+England/EFL League Two/Leyton Orient/2/m
+England/EFL League Two/Walsall/2/m
+England/EFL League Two/Exeter City/2/m
+England/EFL League Two/Colchester United/2/m
+England/EFL League Two/Rochdale/2/m
+England/EFL League Two/Harrogate Town/2/m
+England/EFL League Two/Sutton United/2/m
+England/EFL League Two/Carlisle United/2/m
+England/EFL League Two/Stevenage/2/m
+England/EFL League Two/Hartlepool United/2/m
+England/EFL League Two/Oldham Athletic/2/m
+England/EFL League Two/Barrow/2/m
+England/EFL League Two/Scunthorpe United/2/m

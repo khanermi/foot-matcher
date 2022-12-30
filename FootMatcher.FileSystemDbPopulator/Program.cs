@@ -20,6 +20,8 @@ namespace FootMatcher.FileSystemDbPopulator
                     var configurationRoot = context.Configuration;
                     services.Configure<FileSystemRepositoryOptions>(
                         configurationRoot.GetSection(nameof(FileSystemRepositoryOptions)));
+                    services.Configure<FileSystemDbPopulatorOptions>(
+                        configurationRoot.GetSection(nameof(FileSystemDbPopulatorOptions)));
 
                     services
                         .AddScoped<ITeamRepository, TeamRepository>()
