@@ -53,7 +53,8 @@ namespace FootMatcher.ConsoleApp.Views.SessionDetails
 
         private string BuildMatchLine(Match match)
         {
-            var matchLine = $"{BuildTeamString(match.FirstPlayerTeam)}".PadRight(3) + "|||".PadRight(4) + $"{BuildTeamString(match.SecondPlayerTeam)}{Environment.NewLine}";
+            var matchLine = $"{BuildTeamString(match.FirstPlayerTeam)}".PadRight(3) + @"||\\\\\\\\\\|//////////||    " +
+                $"{BuildTeamString(match.SecondPlayerTeam)}{Environment.NewLine}";
 
             return matchLine;
         }
@@ -61,8 +62,8 @@ namespace FootMatcher.ConsoleApp.Views.SessionDetails
         private string BuildTeamString(Team team)
         {
             var teamString = $"Country:".PadRight(10) + $"{team.CountryName}".PadRight(20) + "|".PadRight(2) +
-                $"League:".PadRight(10) + $"{team.LeagueName}".PadRight(20) + "|".PadRight(2) +
-                $"Team:".PadRight(10) + $"{team.Name}".PadRight(30);
+                $"League:".PadRight(9) + $"{team.LeagueName}".PadRight(20) + "|".PadRight(2) +
+                $"Team:".PadRight(7) + $"{team.Name}".PadRight(30);
                 //+ $"Rating:".PadRight(8) + $"{team.HalfStarsCount * 0.5}*".PadRight(6);
 
             return teamString;
