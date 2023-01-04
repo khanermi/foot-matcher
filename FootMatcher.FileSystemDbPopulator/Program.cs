@@ -18,6 +18,7 @@ namespace FootMatcher.FileSystemDbPopulator
                 .ConfigureServices((context, services) =>
                 {
                     var configurationRoot = context.Configuration;
+
                     services.Configure<FileSystemRepositoryOptions>(
                         configurationRoot.GetSection(nameof(FileSystemRepositoryOptions)));
                     services.Configure<FileSystemDbPopulatorOptions>(
@@ -33,6 +34,7 @@ namespace FootMatcher.FileSystemDbPopulator
                 .Build();
 
             var serviceProvider = host.Services;
+
             var executer = serviceProvider.GetService<Executer>();
             if (executer == null)
             {

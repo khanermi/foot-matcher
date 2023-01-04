@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace FootMatcher.BusinessServices.Interfaces.Interfaces
 {
-    public interface ITeamBusinessService : IBusinessServiceBase
+    public interface ITeamBusinessService : IBusinessService
     {
         void AddTeam(Team team);
         void AddTeams(IEnumerable<Team> teams);
