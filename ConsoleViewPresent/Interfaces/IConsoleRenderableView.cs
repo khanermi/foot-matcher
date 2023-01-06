@@ -6,5 +6,6 @@
 
         void AddComponent(IConsoleRenderableComponent component);
         void AddComponent(IEnumerable<IConsoleRenderableComponent> components);
+        void ClearComponents();
     }
 }

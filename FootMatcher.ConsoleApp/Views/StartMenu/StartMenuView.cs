@@ -55,5 +55,20 @@ namespace FootMatcher.ConsoleApp.Views.StartMenu
 
             return new ExampleComponent(description, options);
         }
+
+        public void SetGenerateDefaultSessionEventHandler(EventHandler eventHandler)
+        {
+            Delegate[] a;
+            try
+            {
+                a = GenerateDefaultSessionEvent.GetInvocationList();
+            }
+            catch (Exception)
+            {
+            }
+
+            GenerateDefaultSessionEvent = eventHandler;
+            var b = GenerateDefaultSessionEvent.GetInvocationList();
+        }
     }
 }

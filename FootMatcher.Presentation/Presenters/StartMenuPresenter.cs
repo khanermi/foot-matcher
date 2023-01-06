@@ -21,7 +21,8 @@ namespace FootMatcher.Presentation.Presenters
         {
             _sessionBusinessService = sessionBusinessService ?? throw new ArgumentNullException(nameof(sessionBusinessService));
 
-            _view.GenerateDefaultSessionEvent += OnGenerateDefaultSessionEvent;
+            //_view.GenerateDefaultSessionEvent += OnGenerateDefaultSessionEvent;
+            _view.SetGenerateDefaultSessionEventHandler(OnGenerateDefaultSessionEvent);
         }
 
         private void GenerateRandomMatchWithRandomStarsEvent(object sender, EventArgs e)

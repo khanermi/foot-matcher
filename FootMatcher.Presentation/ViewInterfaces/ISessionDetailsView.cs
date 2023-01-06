@@ -10,6 +10,7 @@ namespace FootMatcher.Presentation.ViewInterfaces
 {
     public interface ISessionDetailsView : IView<SessionDetailsViewModel>
     {
-        event EventHandler ExitToStartMenuEvent;
+        void SetExitToStartMenuEventHandler(EventHandler eventHandler);
+        //event EventHandler ExitToStartMenuEvent;
     }
 }

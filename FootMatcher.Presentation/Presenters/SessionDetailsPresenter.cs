@@ -16,7 +16,8 @@ namespace FootMatcher.Presentation.Presenters
         public SessionDetailsPresenter(ISessionDetailsView view,
             ViewSwitcher viewSwitcher) : base(view, viewSwitcher)
         {
-            _view.ExitToStartMenuEvent += OnExitToStartMenuEvent;
+            //_view.ExitToStartMenuEvent += OnExitToStartMenuEvent;
+            _view.SetExitToStartMenuEventHandler(OnExitToStartMenuEvent);
         }
 
         protected override void PopulateView(SessionDetailsViewModel viewModel)

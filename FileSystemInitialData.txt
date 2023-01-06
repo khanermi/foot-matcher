@@ -329,3 +329,89 @@ Netherlands/Eredivisie/sc Heerenveen/5/m
 Netherlands/Eredivisie/RKC Waalwijk/4/m
 Netherlands/Eredivisie/SC Cambuur/4/m
 Netherlands/Eredivisie/PEC Zwolle/4/m
+
+India/Super League/ATK Mohun Bagan FC/2/m
+India/Super League/Mumbai City FC/2/m
+India/Super League/Bengaluru FC/2/m
+India/Super League/Kerala Blasters FC/2/m
+India/Super League/Hyderabad FC/2/m
+India/Super League/Chennaiyin FC/2/m
+India/Super League/NorthEast United/1/m
+India/Super League/FC Goa/1/m
+India/Super League/Odisha FC/1/m
+India/Super League/SC East Bengal FC/1/m
+India/Super League/Jamshedpur FC/1/m
+
+Italy/Serie A/Inter/9/m
+Italy/Serie A/Piemonte Calcio/9/m
+Italy/Serie A/Milan/9/m
+Italy/Serie A/Napoli/9/m
+Italy/Serie A/Bergamo Calcio/9/m
+Italy/Serie A/Latium/9/m
+Italy/Serie A/Roma/9/m
+Italy/Serie A/Fiorentina/8/m
+Italy/Serie A/Bologna/8/m
+Italy/Serie A/Sampdoria/8/m
+Italy/Serie A/Sassuolo/8/m
+Italy/Serie A/Torino/8/m
+Italy/Serie A/Hellas Verona/8/m
+Italy/Serie A/Udinese/7/m
+Italy/Serie A/Cagliari/7/m
+Italy/Serie A/Genoa/7/m
+Italy/Serie A/Venezia/7/m
+Italy/Serie A/Empoli/7/m
+Italy/Serie A/Salernitana/7/m
+Italy/Serie A/La Spezia/7/m
+
+Japan/J1 League/Kawasaki Frontale/7/m
+Japan/J1 League/Urawa Reds/7/m
+Japan/J1 League/Yokohama F·Marinos/5/m
+Japan/J1 League/Vissel Kobe/6/m
+Japan/J1 League/Cerezo Osaka/6/m
+Japan/J1 League/Kashima Antlers/6/m
+Japan/J1 League/Nagoya Grampus/5/m
+Japan/J1 League/Gamba Osaka/5/m
+Japan/J1 League/FC Tokyo/5/m
+Japan/J1 League/Sanfrecce Hiroshima/5/m
+Japan/J1 League/Shimizu S-Pulse/5/m
+Japan/J1 League/Hokkaido Consadole Sapporo/4/m
+Japan/J1 League/Avispa Fukuoka/4/m
+Japan/J1 League/Kashiwa Reysol/4/m
+Japan/J1 League/Sagan Tosu/4/m
+Japan/J1 League/Shonan Bellmare/3/m
+Japan/J1 League/Vegalta Sendai/4/m
+Japan/J1 League/Oita Trinita/4/m
+Japan/J1 League/Tokushima Vortis/3/m
+Japan/J1 League/Yokohama FC/3/m
+
+Korea/K League 1/Jeonbuk Hyundai Motors/6/m
+Korea/K League 1/Ulsan Hyundai/7/m
+Korea/K League 1/Jeju United/6/m
+Korea/K League 1/FC Seoul/5/m
+Korea/K League 1/Suwon Bluewings/5/m
+Korea/K League 1/Incheon United/4/m
+Korea/K League 1/Pohang Steelers/3/m
+Korea/K League 1/Gwangju FC/4/m
+Korea/K League 1/Suwon FC/3/m
+Korea/K League 1/Daegu FC/3/m
+Korea/K League 1/Seongnam FC/3/m
+Korea/K League 1/Gangwon FC/3/m
+
+Mexico/Liga MX/Tigres U.A.N.L./8/m
+Mexico/Liga MX/Monterrey/8/m
+Mexico/Liga MX/América/7/m
+Mexico/Liga MX/Cruz Azul/7/m
+Mexico/Liga MX/León/7/m
+Mexico/Liga MX/Pachuca/7/m
+Mexico/Liga MX/Atlas/7/m
+Mexico/Liga MX/Santos Laguna/7/m
+Mexico/Liga MX/Toluca/7/m
+Mexico/Liga MX/Club Tijuana/7/m
+Mexico/Liga MX/Guadalajara/6/m
+Mexico/Liga MX/Puebla/6/m
+Mexico/Liga MX/Pumas U.N.A.M./6/m
+Mexico/Liga MX/Atlético de San Luis/6/m
+Mexico/Liga MX/Gallos Blancos de Querétaro/6/m
+Mexico/Liga MX/FC Juárez/6/m
+Mexico/Liga MX/Necaxa/6/m
+Mexico/Liga MX/Mazatlán FC/6/m

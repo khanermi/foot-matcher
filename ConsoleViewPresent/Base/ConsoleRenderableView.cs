@@ -24,6 +24,7 @@ namespace ConsoleViewPresent.Base
 
         public virtual void ConfigureView()
         {
+            ClearComponents();
             ConfigureComponents();
         }
 
@@ -43,6 +44,11 @@ namespace ConsoleViewPresent.Base
         public void AddComponent(IEnumerable<IConsoleRenderableComponent> components)
         {
             _components.AddRange(components);
+        }
+
+        public void ClearComponents()
+        {
+            _components.Clear();
         }
     }
 }

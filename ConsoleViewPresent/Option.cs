@@ -7,6 +7,7 @@
             Name = name;
             Value = value;
             Key = key;
+
             Callback += callback;
         }
 

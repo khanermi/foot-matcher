@@ -10,7 +10,7 @@ namespace FootMatcher.ConsoleApp.Views.StartMenu.Components
 {
     public class ExampleComponent : ConsoleRenderableComponent
     {
-        public ExampleComponent(string description, List<Option> options) : base(description, options)
+        public ExampleComponent(string description, List<Option> options) :  base(description, options)
         {
         }
     }

@@ -12,6 +12,7 @@ namespace FootMatcher.Presentation.ViewInterfaces
         // property of viewmodel if pass info to the view
 
         // events if notify presenter about changes
-        event EventHandler GenerateDefaultSessionEvent;
+        void SetGenerateDefaultSessionEventHandler(EventHandler eventHandler);
+        //event EventHandler GenerateDefaultSessionEvent;
     }
 }
