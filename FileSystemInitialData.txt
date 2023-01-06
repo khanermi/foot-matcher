@@ -415,3 +415,369 @@ Mexico/Liga MX/Gallos Blancos de Querétaro/6/m
 Mexico/Liga MX/FC Juárez/6/m
 Mexico/Liga MX/Necaxa/6/m
 Mexico/Liga MX/Mazatlán FC/6/m
+
+Netherlands/Eredivisie/Ajax/9/m
+Netherlands/Eredivisie/AZ/7/m
+Netherlands/Eredivisie/FC Groningen/5/m
+Netherlands/Eredivisie/FC Twente/6/m
+Netherlands/Eredivisie/FC Utrecht/6/m
+Netherlands/Eredivisie/Feyenoord/8/m
+Netherlands/Eredivisie/Fortuna Sittard/6/m
+Netherlands/Eredivisie/Go Ahead Eagles/5/m
+Netherlands/Eredivisie/Heracles Almelo/5/m
+Netherlands/Eredivisie/N.E.C. Nijmegen/5/m
+Netherlands/Eredivisie/PEC Zwolle/4/m
+Netherlands/Eredivisie/PSV/8/m
+Netherlands/Eredivisie/RKC Waalwijk/4/m
+Netherlands/Eredivisie/SC Heerenveen/5/m
+Netherlands/Eredivisie/SC Cambuur/4/m
+Netherlands/Eredivisie/Sparta Rotterdam/5/m
+Netherlands/Eredivisie/Vitesse/6/m
+Netherlands/Eredivisie/Willem II/5/m
+
+Norway/Eliteserien/FK Bodø Glimt/5/m
+Norway/Eliteserien/FK Haugesund/3/m
+Norway/Eliteserien/Kristiansund/3/m
+Norway/Eliteserien/Lillestrøm SK/4/m
+Norway/Eliteserien/Mjøndalen IF/2/m
+Norway/Eliteserien/Molde FK/5/m
+Norway/Eliteserien/Odds BK/3/m
+Norway/Eliteserien/Rosenborg BK/5/m
+Norway/Eliteserien/Sandefjord/2/m
+Norway/Eliteserien/Sarpsborg 08/3/m
+Norway/Eliteserien/SK Brann/3/m
+Norway/Eliteserien/Stabæk Fotball/3/m
+Norway/Eliteserien/Strømsgodset IF/3/m
+Norway/Eliteserien/Tromsø IL/3/m
+Norway/Eliteserien/Vålerenga Fotball/3/m
+Norway/Eliteserien/Viking FK/4/m
+
+Poland/PKO Ekstraklasa/Bruk-Bet/3/m
+Poland/PKO Ekstraklasa/Cracovia/4/m
+Poland/PKO Ekstraklasa/Górnik Łęczna/3/m
+Poland/PKO Ekstraklasa/Górnik Zabrze/4/m
+Poland/PKO Ekstraklasa/Jagiellonia/4/m
+Poland/PKO Ekstraklasa/Lech Poznań/6/m
+Poland/PKO Ekstraklasa/Lechia Gdańsk/4/m
+Poland/PKO Ekstraklasa/Legia Warszawa/5/m
+Poland/PKO Ekstraklasa/Piast Gliwice/4/m
+Poland/PKO Ekstraklasa/Pogoń Szczecin/5/m
+Poland/PKO Ekstraklasa/Radomiak Radom/4/m
+Poland/PKO Ekstraklasa/Raków/5/m
+Poland/PKO Ekstraklasa/Stal Mielec/3/m
+Poland/PKO Ekstraklasa/Śląsk Wrocław/4/m
+Poland/PKO Ekstraklasa/Warta Poznań/3/m
+Poland/PKO Ekstraklasa/Wisła Kraków/4/m
+Poland/PKO Ekstraklasa/Wisła Płock/4/m
+Poland/PKO Ekstraklasa/Zagłębie Lubin/4/m
+
+Portugal/Liga Portugal/Arouca/6/m
+Portugal/Liga Portugal/Belenenses SAD/6/m
+Portugal/Liga Portugal/Boavista FC/6/m
+Portugal/Liga Portugal/CD Tondela/6/m
+Portugal/Liga Portugal/Estoril Praia/6/m
+Portugal/Liga Portugal/FC Famalicão/6/m
+Portugal/Liga Portugal/FC Porto/8/m
+Portugal/Liga Portugal/FC Vizela/6/m
+Portugal/Liga Portugal/Gil Vicente/6/m
+Portugal/Liga Portugal/Marítimo/6/m
+Portugal/Liga Portugal/Moreirense FC/6/m
+Portugal/Liga Portugal/Paços Ferreira/6/m
+Portugal/Liga Portugal/Portimonense SC/6/m
+Portugal/Liga Portugal/Santa Clara/6/m
+Portugal/Liga Portugal/SC Braga/7/m
+Portugal/Liga Portugal/SL Benfica/8/m
+Portugal/Liga Portugal/Sporting CP/9/m
+Portugal/Liga Portugal/Vitória SC/7/m
+
+Ireland/SSE Airtricity PD/Bohemian FC/2/m
+Ireland/SSE Airtricity PD/Derry City/2/m
+Ireland/SSE Airtricity PD/Drogheda United/1/m
+Ireland/SSE Airtricity PD/Dundalk/2/m
+Ireland/SSE Airtricity PD/Finn Harps/1/m
+Ireland/SSE Airtricity PD/Longford Town/1/m
+Ireland/SSE Airtricity PD/Shamrock Rovers/3/m
+Ireland/SSE Airtricity PD/Sligo Rovers/2/m
+Ireland/SSE Airtricity PD/St. Pats/2/m
+Ireland/SSE Airtricity PD/Waterford FC/1/m
+
+Rest of World/Rest of World/AC Monza/6/m
+Rest of World/Rest of World/AEK Athens/7/m
+Rest of World/Rest of World/Al Ain FC/5/m
+Rest of World/Rest of World/Apoel FC/5/m
+Rest of World/Rest of World/Benevento/6/m
+Rest of World/Rest of World/Crotone/4/m
+Rest of World/Rest of World/Dinamo Zagreb/7/m
+Rest of World/Rest of World/Dynamo Kyiv/7/m
+Rest of World/Rest of World/Ferencvárosi TC/7/m
+Rest of World/Rest of World/Hajduk Split/6/m
+Rest of World/Rest of World/HJK Helsinki/3/m
+Rest of World/Rest of World/Kaizer Chiefs/6/m
+Rest of World/Rest of World/Lecce/6/m
+Rest of World/Rest of World/Olympiacos CFP/8/m
+Rest of World/Rest of World/Orlando Pirates/6/m
+Rest of World/Rest of World/Panathinaikos/7/m
+Rest of World/Rest of World/Parma/6/m
+Rest of World/Rest of World/PAOK/7/m
+Rest of World/Rest of World/Shakhtar Donetsk/7/m
+Rest of World/Rest of World/Slavia Praha/8/m
+Rest of World/Rest of World/Sparta Praha/7/m
+Rest of World/Rest of World/Viktoria Plzeň/7/m
+Rest of World/Rest of World/Wrexham AFC/3/m
+Rest of World/Rest of World/Soccer Aid/10/m
+Rest of World/Rest of World/adidas All-Star/10/m
+Rest of World/Rest of World/MLS All Stars/8/m
+
+Romania/Liga I/Academica/2/m
+Romania/Liga I/AFC Chindia/3/m
+Romania/Liga I/CFR Cluj/6/m
+Romania/Liga I/CS Mioveni/2/m
+Romania/Liga I/Farul Constanța/4/m
+Romania/Liga I/FC Argeș/3/m
+Romania/Liga I/FC Botoşani/3/m
+Romania/Liga I/FC Dinamo 1948/3/m
+Romania/Liga I/FC Rapid/4/m
+Romania/Liga I/FC U Craiova/3/m
+Romania/Liga I/FC Voluntari/4/m
+Romania/Liga I/FCSB/6/m
+Romania/Liga I/Gaz Metan/1/m
+Romania/Liga I/Sepsi OSK/4/m
+Romania/Liga I/Univ. Craiova/5/m
+Romania/Liga I/UTA Arad/4/m
+
+Saudi Arabia/MBS Pro League/Abha Club/4/m
+Saudi Arabia/MBS Pro League/Al Ahli/5/m
+Saudi Arabia/MBS Pro League/Al Batin/3/m
+Saudi Arabia/MBS Pro League/Al Faisaly/5/m
+Saudi Arabia/MBS Pro League/Al Fateh/4/m
+Saudi Arabia/MBS Pro League/Al Fayha/4/m
+Saudi Arabia/MBS Pro League/Al Hazem/3/m
+Saudi Arabia/MBS Pro League/Al Hilal/7/m
+Saudi Arabia/MBS Pro League/Al Ittihad/6/m
+Saudi Arabia/MBS Pro League/Al Nassr/7/m
+Saudi Arabia/MBS Pro League/Al Raed/5/m
+Saudi Arabia/MBS Pro League/Al Shabab/6/m
+Saudi Arabia/MBS Pro League/Al Taawoun/5/m
+Saudi Arabia/MBS Pro League/Al Tai/3/m
+Saudi Arabia/MBS Pro League/Damac FC/4/m
+Saudi Arabia/MBS Pro League/Ettifaq FC/5/m
+
+Scotland/Cinch Prem/Aberdeen/4/m
+Scotland/Cinch Prem/Celtic/7/m
+Scotland/Cinch Prem/Dundee FC/3/m
+Scotland/Cinch Prem/Dundee United/4/m
+Scotland/Cinch Prem/Hearts/5/m
+Scotland/Cinch Prem/Hibernian/4/m
+Scotland/Cinch Prem/Livingston/3/m
+Scotland/Cinch Prem/Motherwell/4/m
+Scotland/Cinch Prem/Rangers/7/m
+Scotland/Cinch Prem/Ross County/3/m
+Scotland/Cinch Prem/St. Johnstone/3/m
+Scotland/Cinch Prem/St. Mirren/3/m
+
+Spain/LaLiga Santander/Athletic Bilbao/9/m
+Spain/LaLiga Santander/Atlético de Madrid/10/m
+Spain/LaLiga Santander/CA Osasuna/8/m
+Spain/LaLiga Santander/Cádiz CF/8/m
+Spain/LaLiga Santander/D. Alavés/8/m
+Spain/LaLiga Santander/Elche CF/7/m
+Spain/LaLiga Santander/FC Barcelona/10/m
+Spain/LaLiga Santander/Getafe CF/8/m
+Spain/LaLiga Santander/Granada CF/8/m
+Spain/LaLiga Santander/Levante UD/8/m
+Spain/LaLiga Santander/Rayo Vallecano/7/m
+Spain/LaLiga Santander/Celta Vigo/8/m
+Spain/LaLiga Santander/RCD Espanyol/8/m
+Spain/LaLiga Santander/RCD Mallorca/8/m
+Spain/LaLiga Santander/Real Betis/9/m
+Spain/LaLiga Santander/Real Madrid/10/m
+Spain/LaLiga Santander/Real Sociedad/9/m
+Spain/LaLiga Santander/Sevilla FC/9/m
+Spain/LaLiga Santander/Valencia CF/8/m
+Spain/LaLiga Santander/Villarreal CF/9/m
+
+Spain/LaLiga SmartBank/AD Alcorcón/4/m
+Spain/LaLiga SmartBank/Burgos CF/5/m
+Spain/LaLiga SmartBank/CD Leganés/6/m
+Spain/LaLiga SmartBank/CD Lugo/5/m
+Spain/LaLiga SmartBank/CD Mirandés/5/m
+Spain/LaLiga SmartBank/CD Tenerife/6/m
+Spain/LaLiga SmartBank/CF Fuenlabrada/5/m
+Spain/LaLiga SmartBank/FC Cartagena/6/m
+Spain/LaLiga SmartBank/Girona FC/7/m
+Spain/LaLiga SmartBank/Málaga CF/6/m
+Spain/LaLiga SmartBank/Real Oviedo/6/m
+Spain/LaLiga SmartBank/Sporting Gijón/6/m
+Spain/LaLiga SmartBank/Real Valladolid/7/m
+Spain/LaLiga SmartBank/Real Zaragoza/6/m
+Spain/LaLiga SmartBank/Real Sociedad B/4/m
+Spain/LaLiga SmartBank/SD Amorebieta/4/m
+Spain/LaLiga SmartBank/SD Eibar/7/m
+Spain/LaLiga SmartBank/SD Huesca/6/m
+Spain/LaLiga SmartBank/SD Ponferradina/6/m
+Spain/LaLiga SmartBank/UD Almería/7/m
+Spain/LaLiga SmartBank/UD Ibiza/6/m
+Spain/LaLiga SmartBank/UD Las Palmas/6/m
+
+Sweden/Allsvenskan/AIK/5/m
+Sweden/Allsvenskan/BK Häcken/4/m
+Sweden/Allsvenskan/Degerfors IF/3/m
+Sweden/Allsvenskan/Djurgårdens IF/4/m
+Sweden/Allsvenskan/Halmstads BK/2/m
+Sweden/Allsvenskan/Hammarby IF/5/m
+Sweden/Allsvenskan/IF Elfsborg/4/m
+Sweden/Allsvenskan/IFK Göteborg/4/m
+Sweden/Allsvenskan/IFK Norrköping/4/m
+Sweden/Allsvenskan/IK Sirius/3/m
+Sweden/Allsvenskan/Kalmar FF/3/m
+Sweden/Allsvenskan/Malmö FF/6/m
+Sweden/Allsvenskan/Mjällby AIF/2/m
+Sweden/Allsvenskan/Örebro SK/2/m
+Sweden/Allsvenskan/Östersunds FK/2/m
+Sweden/Allsvenskan/Varbergs BoIS/2/m
+
+Switzerland/CSSL/BSC Young Boys/7/m
+Switzerland/CSSL/FC Basel 1893/7/m
+Switzerland/CSSL/FC Lugano/5/m
+Switzerland/CSSL/FC Luzern/5/m
+Switzerland/CSSL/FC Sion/5/m
+Switzerland/CSSL/FC St. Gallen/4/m
+Switzerland/CSSL/FC Zürich/5/m
+Switzerland/CSSL/Grasshopper/5/m
+Switzerland/CSSL/Lausanne-Sport/4/m
+Switzerland/CSSL/Servette FC/5/m
+
+Turkey/SÜPER LİG/Adana Demirspor/7/m
+Turkey/SÜPER LİG/Alanyaspor/7/m
+Turkey/SÜPER LİG/Altay SK/5/m
+Turkey/SÜPER LİG/Antalyaspor/7/m
+Turkey/SÜPER LİG/Başakşehir/7/m
+Turkey/SÜPER LİG/Beşiktaş/7/m
+Turkey/SÜPER LİG/Çaykur Rizespor/6/m
+Turkey/SÜPER LİG/Fenerbahçe/8/m
+Turkey/SÜPER LİG/Galatasaray/7/m
+Turkey/SÜPER LİG/Gaziantep/6/m
+Turkey/SÜPER LİG/Giresunspor/5/m
+Turkey/SÜPER LİG/Göztepe/6/m
+Turkey/SÜPER LİG/Hatayspor/6/m
+Turkey/SÜPER LİG/Karagümrük SK/7/m
+Turkey/SÜPER LİG/Kasımpaşa/6/m
+Turkey/SÜPER LİG/Kayserispor/6/m
+Turkey/SÜPER LİG/Konyaspor/6/m
+Turkey/SÜPER LİG/Sivasspor/6/m
+Turkey/SÜPER LİG/Trabzonspor/8/m
+Turkey/SÜPER LİG/Yeni Malatyaspor/4/m
+
+USA/MLS/Atlanta United/7/m
+USA/MLS/Austin FC/6/m
+USA/MLS/CF Montréal/5/m
+USA/MLS/Chicago Fire FC/5/m
+USA/MLS/Colorado Rapids/5/m
+USA/MLS/Columbus Crew/6/m
+USA/MLS/D.C. United/5/m
+USA/MLS/FC Cincinnati/5/m
+USA/MLS/FC Dallas/6/m
+USA/MLS/Houston Dynamo/6/m
+USA/MLS/Inter Miami CF/6/m
+USA/MLS/LA Galaxy/6/m
+USA/MLS/LAFC/7/m
+USA/MLS/Minnesota United/6/m
+USA/MLS/Nashville SC/5/m
+USA/MLS/New England/6/m
+USA/MLS/New York City FC/6/m
+USA/MLS/Orlando City/6/m
+USA/MLS/Philadelphia U./6/m
+USA/MLS/Portland Timbers/6/m
+USA/MLS/Real Salt Lake/5/m
+USA/MLS/Red Bulls/5/m
+USA/MLS/SJ Earthquakes/5/m
+USA/MLS/Sounders FC/7/m
+USA/MLS/Sporting KC/6/m
+USA/MLS/Toronto FC/5/m
+USA/MLS/Whitecaps FC/6/m
+
+Conmebol/Libertadores/Always Ready/4/m
+Conmebol/Sudamericana/América de Cali/5/m
+Conmebol/Sudamericana/Barcelona SC/6/m
+Conmebol/Libertadores/Boca Juniors/8/m
+Conmebol/Libertadores/Cerro Porteño/6/m
+Conmebol/Sudamericana/Defensa/7/m
+Conmebol/Sudamericana/Dep. La Guaira/4/m
+Conmebol/Libertadores/Dep. Táchira/4/m
+Conmebol/Libertadores/Independiente DV/6/m
+Conmebol/Sudamericana/Junior/6/m
+Conmebol/Libertadores/LDU Quito/5/m
+Conmebol/Libertadores/Nacional/7/m
+Conmebol/Libertadores/Olimpia/6/m
+Conmebol/Sudamericana/Racing Club/7/m
+Conmebol/Libertadores/River Plate/8/m
+Conmebol/Libertadores/Sporting Cristal/5/m
+Conmebol/Libertadores/The Strongest/5/m
+Conmebol/Libertadores/Uni. Católica/7/m
+Conmebol/Sudamericana/Unión La Calera/4/m
+Conmebol/Libertadores/Vélez Sarsfield/7/m
+Conmebol/Sudamericana/Antofagasta/5/m
+Conmebol/Sudamericana/Cerro Largo/4/m
+Conmebol/Sudamericana/Club Nacional/4/m
+Conmebol/Libertadores/Deportes Tolima/6/m
+Conmebol/Libertadores/Deportivo Cali/5/m
+Conmebol/Sudamericana/Guabirá/4/m
+Conmebol/Sudamericana/Guaireña/4/m
+Conmebol/Sudamericana/Independiente/7/m
+Conmebol/Sudamericana/La Equidad/4/m
+Conmebol/Sudamericana/Lanús/7/m
+Conmebol/Libertadores/Libertad/7/m
+Conmebol/Sudamericana/Metropolitanos/4/m
+Conmebol/Libertadores/Peñarol/6/m
+Conmebol/Sudamericana/River Plate/4/m
+Conmebol/Libertadores/Talleres/6/m
+Conmebol/Sudamericana/Wilstermann/4/m
+
+Argentina/10/m
+Australia/6/m
+Austria/8/m
+Belgium/10/m
+Canada/7/m
+China PR/6/m
+Czech Republic/8/m
+Denmark/9/m
+England/10/m
+Finland/7/m
+France/10/m
+Germany/10/m
+Greece/7/m
+Hungary/7/m
+Iceland/6/m
+Ireland/7/m
+Italy/10/m
+Mexico/8/m
+Netherlands/9/m
+New Zealand/5/m
+Northern Ireland/6/m
+Norway/8/m
+Poland/8/m
+Portugal/10/m
+Romania/7/m
+Scotland/8/m
+Spain/10/m
+Sweden/8/m
+Ukraine/8/m
+United States/8/m
+Wales/7/m
+
+Australia/8/f
+Belgium/7/f
+Canada/9/f
+China PR/8/f
+England/9/f
+France/9/f
+Germany/10/f
+Mexico/7/f
+Netherlands/9/f
+New Zealand/8/f
+Norway/9/f
+Portugal/7/f
+Scotland/8/f
+Spain/9/f
+Sweden/9/f
+United States/10/f
