@@ -81,17 +81,7 @@ namespace FootMatcher.ConsoleApp.Views.SessionDetails
 
         public void SetExitToStartMenuEventHandler(EventHandler eventHandler)
         {
-            Delegate[] a;
-            try
-            {
-                a = ExitToStartMenuEvent.GetInvocationList();
-            }
-            catch (Exception)
-            {
-            }
-
             ExitToStartMenuEvent = eventHandler;
-            var b = ExitToStartMenuEvent.GetInvocationList();
         }
     }
 }
